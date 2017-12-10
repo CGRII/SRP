@@ -1,7 +1,15 @@
 # Secure Research Project
-## Best practices for social scientists in securing their research planning, conduct, analysis, and communications.
+## Best practices for social scientists in securing their research.
 
 ### Planning
+
+
+
+### Communications
+
+
+
+### Preparation
 
 
 
