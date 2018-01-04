@@ -7,13 +7,34 @@
 * [Tactical Technology Collective](https://tacticaltech.org/)
 * [Keep your data safe](https://ssd.eff.org/en/module/keeping-your-data-safe)
 
-### Tools
+### Analysis Tools
 
 * [QGIS](https://www.qgis.org/en/site/)
 * [LibreQDA](https://libreqda.github.io/)
-* [Tor](https://www.torproject.org/)
-* [Zotero](https://www.zotero.org/)
+* [Gephi](https://gephi.org/)
 * [VirtualBox](https://www.virtualbox.org/)
+* [LibreOffice](https://www.libreoffice.org/)
+* [Python](https://www.python.org/)
+* [R](https://www.r-project.org/)
+* [KNIME](https://www.knime.com/)
+
+### Internet Tools
+
+* [Tor](https://www.torproject.org/)
+* [OnionBrowser](https://mike.tig.as/onionbrowser/)
+* [Zotero](https://www.zotero.org/)
+* [WireGuard VPN](https://www.wireguard.com/)
+* [Streisand Anti-censorship](https://github.com/StreisandEffect/streisand)
+
+### Communication Tools
+
+* [Signal](https://signal.org/)
+* [Wire](https://wire.com/en/)
+* [Telegram](https://telegram.org/)
+* [Bitmessage](https://bitmessage.org/wiki/Main_Page)
+
+### Security Tools
+
 * [Haven](https://guardianproject.github.io/haven/)
 
 ### Operating Systems
@@ -22,3 +43,4 @@
 * [Qubes OS](https://www.qubes-os.org/)
 * [Debian](https://www.debian.org/)
 * [Ubuntu](https://www.ubuntu.com/)
+* [OpenBSD](https://www.openbsd.org/)
