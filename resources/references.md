@@ -7,6 +7,14 @@
 * [Tactical Technology Collective](https://tacticaltech.org/)
 * [Keep your data safe](https://ssd.eff.org/en/module/keeping-your-data-safe)
 
+### Encryption Tools
+
+* [VeraCrypt](https://veracrypt.codeplex.com/)
+* [GNU Privacy Guard](https://www.gnupg.org/)
+* [7-Zip](http://www.7-zip.org/)
+* [AES Crypt](https://www.aescrypt.com/)
+* [Cryptsetup and LUKS](https://gitlab.com/cryptsetup/cryptsetup)
+
 ### Analysis Tools
 
 * [QGIS](https://www.qgis.org/en/site/)
@@ -17,6 +25,9 @@
 * [Python](https://www.python.org/)
 * [R](https://www.r-project.org/)
 * [KNIME](https://www.knime.com/)
+* [Tableau Public](https://public.tableau.com/s/)
+* [Orange](https://orange.biolab.si/)
+* [OpenRefine](http://openrefine.org/download.html)
 
 ### Internet Tools
 
@@ -25,6 +36,10 @@
 * [Zotero](https://www.zotero.org/)
 * [WireGuard VPN](https://www.wireguard.com/)
 * [Streisand Anti-censorship](https://github.com/StreisandEffect/streisand)
+* [Epic Privacy Browser](https://www.epicbrowser.com/)
+* [Brave](https://brave.com/)
+* [NoScript](https://noscript.net/)
+* [TrackMeNot](https://cs.nyu.edu/trackmenot/)
 
 ### Communication Tools
 
@@ -32,10 +47,16 @@
 * [Wire](https://wire.com/en/)
 * [Telegram](https://telegram.org/)
 * [Bitmessage](https://bitmessage.org/wiki/Main_Page)
+* [Dust](https://www.usedust.com/)
 
 ### Security Tools
 
 * [Haven](https://guardianproject.github.io/haven/)
+* [ClamAV](https://www.clamav.net/)
+* [Vistumbler](https://www.vistumbler.net/)
+* [OSSEC](https://ossec.github.io/)
+* [USB Kill](https://github.com/hephaest0s/usbkill)
+* [Motion](https://github.com/Motion-Project/motion)
 
 ### Operating Systems
 
