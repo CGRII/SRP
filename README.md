@@ -5,4 +5,6 @@ This project is a living document dedicated to providing researchers with inform
 
 Those with experience in performing field work with participants or with experience in security practices are urged to contribute.
 
+The Markdown style guide for GitHub is [here](https://guides.github.com/features/mastering-markdown/).
+
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
