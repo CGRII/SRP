@@ -14,6 +14,8 @@ text
 
 text (see README.md for styling link)
 
+images (below)
+
 ![images](https://octodex.github.com/images/yaktocat.png)
 
 ```
