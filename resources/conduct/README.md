@@ -1,6 +1,6 @@
 # Conduct
 
-
+* [Data for Democracy Code of Ethics](https://www.datafordemocracy.org/project/global-data-ethics-project)
 
 Each SRP guide should be read in its entirety. If changes or additions need to be made, contribute your inputs through GitHub by creating an [issue](https://github.com/CGRII/SRP/issues) or a [pull request](https://github.com/CGRII/SRP/pulls).
 
