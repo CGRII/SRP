@@ -16,6 +16,8 @@ Here are the current focus areas:
 
 Each SRP guide should be read in its entirety. All parts of this project are open for editing and restructuring. If changes or additions need to be made, contribute your inputs through GitHub by creating an [issue](https://github.com/CGRII/SRP/issues) or a [pull request](https://github.com/CGRII/SRP/pulls).
 
+References for tools and other resources can be found [here](resources/references.md).
+
 The Markdown style guide for GitHub is [here](https://guides.github.com/features/mastering-markdown/).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
