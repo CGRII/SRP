@@ -7,6 +7,11 @@
 * [Tactical Technology Collective](https://tacticaltech.org/)
 * [Keep your data safe](https://ssd.eff.org/en/module/keeping-your-data-safe)
 
+### Conduct
+
+* [An Ethics Checklist for Data Scientists](http://deon.drivendata.org)
+* [Data for Democracy Code of Ethics](https://www.datafordemocracy.org/project/global-data-ethics-project)
+
 ### Encryption Tools
 
 * [VeraCrypt](https://veracrypt.codeplex.com/)
