@@ -1,1 +1,7 @@
-theme: jekyll-theme-cayman
+title: Secure Research Project
+author: CGRII
+email: info@cgrii.org
+description: Secure Research Project - Best practices for social scientists in securing their research
+
+markdown: kramdown
+theme: minima
